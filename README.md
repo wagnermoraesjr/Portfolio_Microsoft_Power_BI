@@ -4,15 +4,15 @@ Nesse repositório eu reúno todos os meus laboratórios e mini projetos de dash
 <br><br>
 Abaixo segue a relação dos repositórios de cada Laboratório/Mini Projeto.
 <br><br>
-- **[Laboratório 1 - Dashboard Analítico de Vendas Globais](URL)**
-- **[Laboratório 2 - Respondendo Perguntas de Negócio](URL)**
-- **[Laboratório 3 - Balanço Patrimonial com Visual de Matriz no Power BI](URL)**
-- **[Laboratório 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes no Power BI](URL)**
-- **[Laboratório 5 - Engenharia de Produção com Power BI e IA - Prevendo a Produção Industrial ao Longo do Tempo](URL)**
+- **[Laboratório 1 - Dashboard Analítico de Vendas Globais](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais#laborat%C3%B3rio-1---dashboard-anal%C3%ADtico-de-vendas-globais)**
+- **[Laboratório 2 - Respondendo Perguntas de Negócio](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Laboratorio_2_-_Respondendo_Perguntas_de_Negocio#laborat%C3%B3rio-2---respondendo-perguntas-de-neg%C3%B3cio)**
+- **[Laboratório 3 - Balanço Patrimonial com Visual de Matriz no Power BI](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Laboratorio_3_-_Balanco_Patrimonial_com_Visual_de_Matriz_no_Power_BI#laborat%C3%B3rio-3---balan%C3%A7o-patrimonial-com-visual-de-matriz-no-power-bi)**
+- **[Laboratório 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes no Power BI](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Laboratorio_4_-_Limpeza_e_Manipulacao_de_Dados_de_Cadastro_de_Clientes_no_Power_BI#laborat%C3%B3rio-4---limpeza-e-manipula%C3%A7%C3%A3o-de-dados-de-cadastro-de-clientes-no-power-bi)**
+- **[Laboratório 5 - Engenharia de Produção com Power BI e IA - Prevendo a Produção Industrial ao Longo do Tempo](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Laboratorio_5_-_Engenharia_de_Producao_com_Power_BI_e_IA_-_Prevendo_a_Producao_Industrial_ao_Longo_do_Tempo#laborat%C3%B3rio-5---engenharia-de-produ%C3%A7%C3%A3o-com-power-bi-e-ia---prevendo-a-produ%C3%A7%C3%A3o-industrial-ao-longo-do-tempo)**
   <br><br>
-- **[Mini Projeto 1 - Análise de Campanhas de Marketing com Power BI](URL)**
-- **[Mini Projeto 2 - Dashboard Comercial - Performance de Vendas](URL)**
-- **[Mini Projeto 3 - Análise de Dados de RH com Power BI](URL)**
-- **[Mini Projeto 4 - Resolvendo Problemas de Análise na Área de Logística](URL)**
-- **[Mini Projeto 5 - Dashboard de Análise Financeira](URL)**
-- **[Mini Projeto 6 - Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](URL)**
+- **[Mini Projeto 1 - Análise de Campanhas de Marketing com Power BI](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_1_-_Analise_de_Campanhas_de_Marketing_com_Power_BI#mini-projeto-1---an%C3%A1lise-de-campanhas-de-marketing-com-power-bi)**
+- **[Mini Projeto 2 - Dashboard Comercial - Performance de Vendas](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_2_-_Dashboard_Comercial_-_Performance_de_Vendas#mini-projeto-2---dashboard-comercial---performance-de-vendas)**
+- **[Mini Projeto 3 - Análise de Dados de RH com Power BI](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_3_-_Analise_de_Dados_de_RH_com_Power_BI#mini-projeto-3---an%C3%A1lise-de-dados-de-rh-com-power-bi)**
+- **[Mini Projeto 4 - Resolvendo Problemas de Análise na Área de Logística](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_4_-_Resolvendo_Problemas_de_Analise_na_Area_de_Logistica#mini-projeto-4---resolvendo-problemas-de-an%C3%A1lise-na-%C3%A1rea-de-log%C3%ADstica)**
+- **[Mini Projeto 5 - Dashboard de Análise Financeira](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_5_-_Dashboard_de_Analise_Financeira#mini-projeto-5---dashboard-de-an%C3%A1lise-financeira)**
+- **[Mini Projeto 6 - Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/tree/main/Mini_Projeto_6_-_Dashboard_Analitico_do_Mercado_de_Acoes_com_Narrativa_Inteligente#mini-projeto-6---dashboard-anal%C3%ADtico-do-mercado-de-a%C3%A7%C3%B5es-com-narrativa-inteligente)**

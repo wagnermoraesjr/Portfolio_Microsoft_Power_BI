@@ -9,11 +9,9 @@ Nosso Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano
 - Qual foi a média de desconto nas vendas por subcategoria de produto?
 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
-[🔗**Download do Dashboard no Power BI**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/raw/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais/Dashboard_Lab1.pbix)
-
-[🔗**Dashboard no Power BI**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais/Dashboard_Lab1.pbix)
-
 [🔗**Dashboard em PDF**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais/Dashboard_PDF_Lab1.pdf)
+
+[🔗**Download do Dashboard no Power BI**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/raw/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais/Dashboard_Lab1.pbix)
 <br><br>
 ![Laboratório 1](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/main/Laboratorio_1_-_Dashboard_Analitico_de_Vendas_Globais/Imagem_Lab1.png
 )

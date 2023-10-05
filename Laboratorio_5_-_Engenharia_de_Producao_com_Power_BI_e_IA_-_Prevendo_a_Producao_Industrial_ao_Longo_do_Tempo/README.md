@@ -4,6 +4,6 @@ Neste Lab o Power BI é usado para manipular e compreender os dados, explorando 
 
 [🔗**Dashboard em PDF**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/main/Laboratorio_5_-_Engenharia_de_Producao_com_Power_BI_e_IA_-_Prevendo_a_Producao_Industrial_ao_Longo_do_Tempo/Dashboard_PDF_Lab5.pdf)
 
-[🔗**Download do Dashboard no Power BI**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/raw/Laboratorio_5_-_Engenharia_de_Producao_com_Power_BI_e_IA_-_Prevendo_a_Producao_Industrial_ao_Longo_do_Tempo/Dashboard_Lab5.pbix)
+[🔗**Download do Dashboard no Power BI**](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/raw/main/Laboratorio_5_-_Engenharia_de_Producao_com_Power_BI_e_IA_-_Prevendo_a_Producao_Industrial_ao_Longo_do_Tempo/Dashboard_Lab5.pbix)
 <br><br>
 ![Laboratório 5](https://github.com/wagnermoraesjr/Portifolio_Microsoft_Power_BI/blob/main/Laboratorio_5_-_Engenharia_de_Producao_com_Power_BI_e_IA_-_Prevendo_a_Producao_Industrial_ao_Longo_do_Tempo/Imagem_Lab5.png)
